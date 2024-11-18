@@ -3,3 +3,16 @@ h1 {
     background-color:navy;
     font-weight: bold;
 }
+
+li {
+    font-family: 'Courier New', Courier, monospace;
+    color:navy;
+    font-weight: 600;
+}
+
+#matches
+ {
+    color: navy;
+    background-color: yellow;
+    font-weight: 800;
+}
