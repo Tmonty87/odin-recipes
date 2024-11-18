@@ -18,6 +18,7 @@ li,#list {
 }
 
 h3 {
+    background-color:coral;
     text-align: center;
     font-size: x-large;
     font-family: 'Times New Roman', Times, serif;
