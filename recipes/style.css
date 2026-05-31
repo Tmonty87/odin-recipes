@@ -1,3 +1,8 @@
 .page {
-    background-color: brown;
+    background-color: salmon
+}
+
+.header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
