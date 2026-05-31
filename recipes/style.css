@@ -6,3 +6,16 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
+
+.list-container {
+    font-size: xx-large;
+    text-align: center;
+}
+
+li {
+    padding: 20px;
+    display: inline-block;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
+}
+
